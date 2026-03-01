@@ -1,0 +1,200 @@
+[
+  {
+    "timestamp": "2026-03-01T10:56:21.569714",
+    "score": 26.2,
+    "label": "SAFE",
+    "components": {
+      "attack_accuracy": 20.8,
+      "admin_freq": 5.0,
+      "eps_growth": 0.4,
+      "suspicious_logins": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T11:55:26.807832",
+    "score": 38.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 2.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T11:55:37.330594",
+    "score": 38.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 2.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T11:55:37.777362",
+    "score": 38.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 2.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T11:55:43.581822",
+    "score": 38.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 2.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T11:55:44.090916",
+    "score": 38.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 2.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T11:56:01.972178",
+    "score": 38.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 2.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T11:56:09.690507",
+    "score": 38.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 2.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T12:16:21.552892",
+    "score": 43.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 7.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T12:16:30.284192",
+    "score": 43.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 7.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T12:16:32.520422",
+    "score": 43.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 7.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T12:16:34.442324",
+    "score": 43.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 7.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T12:16:40.458395",
+    "score": 43.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 7.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T12:16:43.988398",
+    "score": 43.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 7.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T12:16:45.882445",
+    "score": 43.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 7.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T12:16:49.003143",
+    "score": 43.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 7.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T12:16:50.535299",
+    "score": 43.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 7.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  },
+  {
+    "timestamp": "2026-03-01T12:16:51.702779",
+    "score": 43.78,
+    "label": "ELEVATED",
+    "components": {
+      "attack_accuracy": 20.88,
+      "admin_freq": 7.5,
+      "eps_growth": 0.4,
+      "suspicious_logins": 15.0
+    }
+  }
+]

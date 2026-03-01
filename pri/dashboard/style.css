@@ -1,0 +1,248 @@
+/* Premium Cyber-Security Dashboard Styles - V3.1 (High Fidelity) */
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Inter:wght@300;400;600&display=swap');
+
+:root {
+    --bg-app: #0b0f19;
+    --bg-sidebar: #0f172a;
+    --bg-card: rgba(30, 41, 59, 0.4);
+    --bg-frame: linear-gradient(145deg, rgba(15, 23, 42, 0.9), rgba(10, 15, 28, 0.95));
+    --border-main: rgba(56, 189, 248, 0.2);
+    --border-frame: rgba(56, 189, 248, 0.3);
+    --text-main: #e2e8f0;
+    --text-muted: #94a3b8;
+    --accent: #38bdf8;
+    --header-text: #f8fafc;
+    --shadow: rgba(0, 0, 0, 0.3);
+}
+
+.light-theme {
+    --bg-app: #f1f5f9;
+    --bg-sidebar: #e2e8f0;
+    --bg-card: rgba(255, 255, 255, 0.7);
+    --bg-frame: linear-gradient(145deg, rgba(255, 255, 255, 0.95), rgba(248, 250, 252, 0.9));
+    --border-main: rgba(14, 165, 233, 0.2);
+    --border-frame: rgba(14, 165, 233, 0.25);
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+    --accent: #0ea5e9;
+    --header-text: #0f172a;
+    --shadow: rgba(0, 0, 0, 0.05);
+}
+
+/* Global Reset & Background */
+.stApp {
+    background: var(--bg-app) !important;
+    color: var(--text-main) !important;
+    font-family: 'Inter', sans-serif !important;
+}
+
+/* Sidebar Styling */
+[data-testid="stSidebar"] {
+    background: var(--bg-sidebar) !important;
+    border-right: 1px solid var(--border-main) !important;
+    box-shadow: 10px 0 30px var(--shadow) !important;
+}
+
+[data-testid="stSidebar"] * {
+    color: var(--text-muted) !important;
+}
+
+/* Card Styling - The "Glassmorphism" effect */
+.metric-card {
+    background: var(--bg-card) !important;
+    border-radius: 12px !important;
+    padding: 24px !important;
+    border: 1px solid var(--border-main) !important;
+    backdrop-filter: blur(12px) !important;
+    box-shadow: 0 4px 20px var(--shadow) !important;
+    margin-bottom: 20px !important;
+    transition: transform 0.2s ease, border-color 0.2s ease !important;
+}
+
+.metric-card:hover {
+    border-color: var(--accent) !important;
+    transform: translateY(-2px) !important;
+}
+
+.metric-title {
+    font-family: 'Orbitron', sans-serif !important;
+    font-size: 0.8rem !important;
+    color: var(--accent) !important;
+    text-transform: uppercase !important;
+    letter-spacing: 2px !important;
+    margin-bottom: 12px !important;
+    font-weight: 700 !important;
+}
+
+.metric-value {
+    font-size: 2.2rem !important;
+    font-weight: 700 !important;
+    color: var(--header-text) !important;
+    text-shadow: 0 0 10px rgba(56, 189, 248, 0.1) !important;
+}
+
+/* Header & Typography */
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Orbitron', sans-serif !important;
+    color: var(--header-text) !important;
+}
+
+/* Status Indicators */
+.status-pill {
+    padding: 4px 12px;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    font-family: 'Orbitron', sans-serif;
+    display: inline-block;
+    border: 1px solid transparent;
+}
+
+.status-safe {
+    background: rgba(34, 197, 94, 0.1);
+    color: #4ade80;
+    border-color: #22c55e;
+}
+
+.status-warning {
+    background: rgba(234, 179, 8, 0.1);
+    color: #fbbf24;
+    border-color: #eab308;
+}
+
+.status-critical {
+    background: rgba(239, 68, 68, 0.1);
+    color: #f87171;
+    border-color: #ef4444;
+}
+
+/* Table & Dataframe */
+.stTable,
+.stDataFrame {
+    background: transparent !important;
+    border: none !important;
+}
+
+td,
+th {
+    color: var(--text-muted) !important;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.1) !important;
+}
+
+/* Hide Streamlit default decorations */
+#MainMenu,
+footer,
+header {
+    visibility: hidden;
+}
+
+/* Custom Neon Lines */
+.neon-hr {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--accent), transparent);
+    margin: 20px 0;
+    opacity: 0.5;
+}
+
+/* V3 High Fidelity Frames */
+.cyber-frame {
+    background: var(--bg-frame) !important;
+    border: 1px solid var(--border-frame) !important;
+    box-shadow: 0 0 15px rgba(56, 189, 248, 0.05), inset 0 0 10px var(--shadow) !important;
+    border-radius: 12px !important;
+    padding: 20px !important;
+    margin-bottom: 15px !important;
+    position: relative !important;
+    overflow: hidden !important;
+}
+
+.cyber-frame::before {
+    content: "" !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 2px !important;
+    height: 100% !important;
+    background: var(--accent) !important;
+    opacity: 0.3 !important;
+}
+
+/* Log Entries & Avatars */
+.log-entry {
+    display: flex !important;
+    align-items: center !important;
+    padding: 10px 0 !important;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.1) !important;
+    gap: 15px !important;
+}
+
+.avatar-sim {
+    width: 32px !important;
+    height: 32px !important;
+    background: var(--bg-sidebar) !important;
+    border: 1px solid var(--accent) !important;
+    border-radius: 50% !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    font-size: 0.8rem !important;
+    color: var(--accent) !important;
+}
+
+.status-lock {
+    margin-left: auto !important;
+    color: #22c55e !important;
+    font-size: 0.9rem !important;
+}
+
+/* Alert Overlays */
+.alert-overlay {
+    background: rgba(239, 68, 68, 0.1) !important;
+    border: 1px solid #ef4444 !important;
+    border-radius: 8px !important;
+    padding: 10px !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+    margin: 10px 0 !important;
+}
+
+.alert-icon-v3 {
+    width: 30px !important;
+    height: 30px !important;
+    background: #ef4444 !important;
+    border-radius: 50% !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+
+/* Buttons Bottom Bar */
+.bottom-nav {
+    display: flex !important;
+    gap: 10px !important;
+    margin-top: 20px !important;
+    justify-content: center !important;
+}
+
+.nav-btn-v3 {
+    background: var(--bg-card) !important;
+    border: 1px solid var(--border-main) !important;
+    padding: 6px 15px !important;
+    border-radius: 4px !important;
+    color: var(--text-muted) !important;
+    font-size: 0.7rem !important;
+    font-family: 'Orbitron' !important;
+    cursor: pointer !important;
+}
+
+.nav-btn-v3:hover {
+    border-color: var(--accent) !important;
+    color: var(--header-text) !important;
+}

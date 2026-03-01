@@ -1,0 +1,1622 @@
+[
+    {
+        "timestamp": "2026-02-28T22:30:15.413998",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_SECURITY_LOGS",
+        "reason": "Initializing Privacy Guardian Engine",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.57",
+        "hash": "3725d78e9ff96be02c57b7bb3e0b7c24541143e78871b648260d861376be47e3"
+    },
+    {
+        "timestamp": "2026-02-28T22:30:15.414773",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_SECURITY_LOGS",
+        "reason": "Generating synthetic academic data at privacy_guardian_ai/dataset/student_data.csv",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.57",
+        "hash": "c471112fdda0ccb370046ae971260352662862bbbec26f144d45829eb416d605"
+    },
+    {
+        "timestamp": "2026-02-28T22:30:15.460216",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 1",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.57",
+        "hash": "3b924f37f7c7ab99e4b2ec747c035405d980376f3e003afac693c2547b9e4b7f"
+    },
+    {
+        "timestamp": "2026-02-28T22:30:17.679261",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 2",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.57",
+        "hash": "0b220e3cd2a587183ae6683ffc5c5cfe3b1f1ad62fb4704b2953e5b99360cb5d"
+    },
+    {
+        "timestamp": "2026-02-28T22:30:18.545130",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 3",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.57",
+        "hash": "4ad64c1f9421b75b7538756fcc2958be89086f97cb88fc116f1d8e37cdae00c9"
+    },
+    {
+        "timestamp": "2026-02-28T22:30:19.261109",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 4",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.57",
+        "hash": "3f482a5a472e6590e885de19dc3cbea15763ee7e5546650e5447539aa28d571b"
+    },
+    {
+        "timestamp": "2026-02-28T22:30:19.860883",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 5",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.57",
+        "hash": "875ea47808f9870333513b8393dc4ceec67f5645d4e2babc2b954e860a9d2d61"
+    },
+    {
+        "timestamp": "2026-02-28T22:32:28.870274",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_SECURITY_LOGS",
+        "reason": "Initializing Privacy Guardian Engine",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.75",
+        "hash": "bfe8c9f8b98d587fb0a1dde147e0b2106ade805a7e2a7b65b48fc1942afbf6e8"
+    },
+    {
+        "timestamp": "2026-02-28T22:32:28.871488",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_SECURITY_LOGS",
+        "reason": "Generating synthetic academic data at privacy_guardian_ai/dataset/student_data.csv",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.75",
+        "hash": "f83088d49251f124d83fc5f2e6d3593811349e6b06b1dab427121a9d5bc28dd3"
+    },
+    {
+        "timestamp": "2026-02-28T22:32:28.912641",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 1",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.75",
+        "hash": "f2a85acb28c847d3d75e9c7acf2a0a690c1abc4751b29779f68266765ea0fb9c"
+    },
+    {
+        "timestamp": "2026-02-28T22:32:31.093833",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 2",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.75",
+        "hash": "ce300cf67e4bb26e78e24a9857fddc1ce41e12cbec3ae4c6d401cdcba5c249f2"
+    },
+    {
+        "timestamp": "2026-02-28T22:32:31.913050",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 3",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.75",
+        "hash": "ba941abb71568b2a4606aa65a8412a376694c94e29671e7a85088102871a71a0"
+    },
+    {
+        "timestamp": "2026-02-28T22:32:32.608511",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 4",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.75",
+        "hash": "2b8c612b5baf89b34416159ee2d4a738b093ab3950a973ede5b2bebf68732ec2"
+    },
+    {
+        "timestamp": "2026-02-28T22:32:33.208788",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 5",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.75",
+        "hash": "3930547d47769203706413cb052ec2d4364d2e067b82bd7c5007f8096eee2037"
+    },
+    {
+        "timestamp": "2026-02-28T22:37:49.829420",
+        "user_id": "admin_current",
+        "role": "admin",
+        "action_type": "AUTHORIZED_INDIVIDUAL_ACCESS",
+        "reason": "attendance",
+        "resource_id": "42",
+        "ip_simulated": "192.168.1.109",
+        "hash": "7e1829c5ba4fb909e3078ccf46a0b20cb95a7b031037ad524932fb01dc1b66d9"
+    },
+    {
+        "timestamp": "2026-02-28T22:38:11.796681",
+        "user_id": "admin_current",
+        "role": "admin",
+        "action_type": "AUTHORIZED_INDIVIDUAL_ACCESS",
+        "reason": "mark",
+        "resource_id": "42",
+        "ip_simulated": "192.168.1.109",
+        "hash": "89e56d16fc021eccec97510928fce14a04450c138fc401fe49688e4442097d1e"
+    },
+    {
+        "timestamp": "2026-02-28T23:11:58.435977",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_SECURITY_LOGS",
+        "reason": "Initializing Privacy Guardian Engine",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.172",
+        "hash": "f90508abfdc979f55542e73a680a5a6bf03dcc5c8a72e227576f44a882b9320e"
+    },
+    {
+        "timestamp": "2026-02-28T23:11:58.436876",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_SECURITY_LOGS",
+        "reason": "Generating synthetic academic data at privacy_guardian_ai/dataset/student_data.csv",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.172",
+        "hash": "e5b3f7b5ed7a51a1fd6bfe31feefef1ba9aa89cb61f23ff562aab4715add84bb"
+    },
+    {
+        "timestamp": "2026-02-28T23:11:58.496504",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 1",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.172",
+        "hash": "e797ae6043a293c0b4a54d7156fffb25f7f646d8bf8092aacae92e30a97b150c"
+    },
+    {
+        "timestamp": "2026-02-28T23:12:01.299870",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 2",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.172",
+        "hash": "40c4e5db82c0927b2acac132227593ba95fe40416bf6c7588651ba96132a631c"
+    },
+    {
+        "timestamp": "2026-02-28T23:12:02.114695",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 3",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.172",
+        "hash": "89a545f5bee724865939d0335bed2f6b0b6ef456d3df8b91b8cc408a06a0d6e1"
+    },
+    {
+        "timestamp": "2026-02-28T23:12:02.791850",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 4",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.172",
+        "hash": "e7e610ea8e084737773bfcbed432731f4dd7a4970b8adeedd176293e2861bdb8"
+    },
+    {
+        "timestamp": "2026-02-28T23:12:03.369900",
+        "user_id": "SYSTEM",
+        "role": "security_officer",
+        "action_type": "AUTHORIZED_VIEW_MIA_METRICS",
+        "reason": "Starting Federated Training Round 5",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.172",
+        "hash": "1c6c25054aff6171bd715689dafed4c087faa1490702fc2dab03051cafad9b03"
+    },
+    {
+        "timestamp": "2026-02-28T23:14:37.316556",
+        "user_id": "admin",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.12",
+        "hash": "07481e46db6f3003a421a9d13188fbc9b3d107a23ac682a8cfcde0e6569713c4"
+    },
+    {
+        "timestamp": "2026-02-28T23:14:39.329320",
+        "user_id": "admin",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.12",
+        "hash": "48407ec4478936dfe48ac89b64a8fede254d25e25344080ea830ace8f5c2d997"
+    },
+    {
+        "timestamp": "2026-02-28T23:14:48.554789",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.12",
+        "hash": "0aadabbc209133713c2cafcd9b97eb86007c05fbfcfd1e0e222ca1151995d2a7"
+    },
+    {
+        "timestamp": "2026-02-28T23:15:11.595686",
+        "user_id": "admin_current",
+        "role": "admin",
+        "action_type": "AUTHORIZED_INDIVIDUAL_ACCESS",
+        "reason": "attentance",
+        "resource_id": "2",
+        "ip_simulated": "192.168.1.89",
+        "hash": "09c3069e22a240118f9edf2ee77430ad15af600d9e5224f820480d2d0cba3a02"
+    },
+    {
+        "timestamp": "2026-02-28T23:15:23.886181",
+        "user_id": "admin_current",
+        "role": "admin",
+        "action_type": "AUTHORIZED_INDIVIDUAL_ACCESS",
+        "reason": "attentance",
+        "resource_id": "421",
+        "ip_simulated": "192.168.1.89",
+        "hash": "a20e5ead15a8fe882d06634080aa438ce51df5073a1ef81a14370d531fe68f16"
+    },
+    {
+        "timestamp": "2026-02-28T23:15:37.105847",
+        "user_id": "admin_current",
+        "role": "admin",
+        "action_type": "AUTHORIZED_INDIVIDUAL_ACCESS",
+        "reason": "attentance",
+        "resource_id": "42",
+        "ip_simulated": "192.168.1.89",
+        "hash": "93cbb0898f8618942e9c50dd6a9e8ccf2427e811497b049deded5dd10622e2f0"
+    },
+    {
+        "timestamp": "2026-02-28T23:15:43.549884",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.12",
+        "hash": "3067d93a2e8b8510a38f471e9408d8d39a231854cb087267bd90a60add893f11"
+    },
+    {
+        "timestamp": "2026-02-28T23:16:11.111253",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.71",
+        "hash": "c2c3db1531bdd8926f1c50e7bd08671356e75698342952105552b6179a7dda4b"
+    },
+    {
+        "timestamp": "2026-02-28T23:16:24.803206",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.71",
+        "hash": "0db114b962bf5c5681c8e06c2da9c460f574054925821c1280602b663a16f923"
+    },
+    {
+        "timestamp": "2026-02-28T23:17:08.067896",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.182",
+        "hash": "ae06b586dfb4e8b7d71615d778dd88a70f7748e29202af3e995f6026b2f4a84a"
+    },
+    {
+        "timestamp": "2026-02-28T23:18:04.252063",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.182",
+        "hash": "71fd69fa593a29609bd300ff68463f474e7cdbb672d21bb20affd3446ce09fdb"
+    },
+    {
+        "timestamp": "2026-02-28T23:18:16.000533",
+        "user_id": "1",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.172",
+        "hash": "c1e38bdaea65b8e454d37c1af3001519bec85788f46da6947003debb4367d192"
+    },
+    {
+        "timestamp": "2026-02-28T23:18:21.604970",
+        "user_id": "1",
+        "role": "student",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.172",
+        "hash": "c93071bbe9c51d23b22a12863ad591b9c63a0aaafc308c88056b7f4a89ffc2ee"
+    },
+    {
+        "timestamp": "2026-02-28T23:18:39.752494",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.12",
+        "hash": "a9358b9e5f2f7d65eab7cb78d4496ae0f610d746c095bc4c25b7b3232b03c10b"
+    },
+    {
+        "timestamp": "2026-02-28T23:18:54.693818",
+        "user_id": "admin_current",
+        "role": "admin",
+        "action_type": "AUTHORIZED_INDIVIDUAL_ACCESS",
+        "reason": "attendance",
+        "resource_id": "0",
+        "ip_simulated": "192.168.1.89",
+        "hash": "3e36529741979768188528c30d26777d8808c8c38c6c51fe9acf58aeaaeac531"
+    },
+    {
+        "timestamp": "2026-02-28T23:19:07.641451",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.12",
+        "hash": "2410bef90a83e0cfe137c88f99451ae436654c9a3e0f51c5209c1bcb93f120a3"
+    },
+    {
+        "timestamp": "2026-02-28T23:19:15.045966",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.182",
+        "hash": "cc9bbd1b2c76f945f93e88b9baea40d249ffbe0699b3194284ccc97b8f151159"
+    },
+    {
+        "timestamp": "2026-03-01T00:17:10.734235",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.206",
+        "hash": "df31006ee93485c3b34b2e593ea0c81919599feef8f8bee2b4b42af820e7da94"
+    },
+    {
+        "timestamp": "2026-03-01T00:18:24.989875",
+        "user_id": "security",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.206",
+        "hash": "41466dc61739e9ff6a9076d6dc99bed57fb05ae2ddcca6f95da6112c5db3c7ea"
+    },
+    {
+        "timestamp": "2026-03-01T00:18:30.266173",
+        "user_id": "security",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.206",
+        "hash": "fd59aad6f4357d9e097cf561faac6767653694048a9b82979885c699005a7d98"
+    },
+    {
+        "timestamp": "2026-03-01T00:18:33.317888",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.206",
+        "hash": "f8de8e37dd84ed37cd8d307946e79f0a2387466cac12aee5c73a8b7e70a632a4"
+    },
+    {
+        "timestamp": "2026-03-01T00:18:59.146860",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.206",
+        "hash": "1ecfba688a738f7064f2bf9a38e87c45dd2f418378ec2676e28985a6fa8619b3"
+    },
+    {
+        "timestamp": "2026-03-01T00:31:19.131611",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.43",
+        "hash": "ffa7ef6b956fe6bb76d749cc7a40de0ff37b8163012bc629a3cdca7a1a911df3"
+    },
+    {
+        "timestamp": "2026-03-01T00:32:05.633235",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.43",
+        "hash": "c49630260e893ee1e19d389ae1549e6f19c71e240c6d35d07a2fe238a6d5d573"
+    },
+    {
+        "timestamp": "2026-03-01T00:32:26.391103",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.43",
+        "hash": "9aa755f50900d680442ae1f11fd1861584e00d6827a67fee21630cd7b768ebb7"
+    },
+    {
+        "timestamp": "2026-03-01T00:35:23.283441",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.43",
+        "hash": "d8aa43c7786390e3769ef376099c33b1f33b9d08299c5e22883c5e0b2a0acf05"
+    },
+    {
+        "timestamp": "2026-03-01T00:35:59.192217",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.43",
+        "hash": "a867a1095c9640edc37e277cdd968fe52a2c76f93fe3ab22ab5b78c4cff0199f"
+    },
+    {
+        "timestamp": "2026-03-01T00:40:01.013986",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.43",
+        "hash": "07b4c8aa152487928167fa78e59eadeb1ec9cbcaa5863946baf835349a983694"
+    },
+    {
+        "timestamp": "2026-03-01T00:40:24.213951",
+        "user_id": "",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.0",
+        "hash": "fee1b9013b5f686a7bcee3ba4b2ad40f7687214ae528e8e716856ca4ac3b1e5a"
+    },
+    {
+        "timestamp": "2026-03-01T00:40:35.401984",
+        "user_id": "student",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.166",
+        "hash": "c98c704c51a20f2080ee2c934490f2f4f4bd0e069f761d5f135a777aa94f5e9c"
+    },
+    {
+        "timestamp": "2026-03-01T00:40:49.770179",
+        "user_id": "student",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.166",
+        "hash": "4a4cc0b429f454dc11e36b2c2cbb38d861e9e1c7b2668492030fce8423dd6759"
+    },
+    {
+        "timestamp": "2026-03-01T00:41:03.732914",
+        "user_id": "admin",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "8d91c64ec43cd86a77d9636c38f47df15a8061c1d0bf6cf9edb05cfcf08321e3"
+    },
+    {
+        "timestamp": "2026-03-01T00:41:21.061044",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "7b94ba7cc3425184d1fadb08f70b3bbe5f930c812d50afe2e4826f6a5984afb3"
+    },
+    {
+        "timestamp": "2026-03-01T00:41:51.284860",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "b83a7b1f70d0ea21b4b2c5ec3c0ee5b99864298ba54abe011c13b39ed6494d32"
+    },
+    {
+        "timestamp": "2026-03-01T00:42:07.839272",
+        "user_id": "admin",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "c041c015863e7441083d47f58cbf098c56c0c28d17dd252f356bb9379314a915"
+    },
+    {
+        "timestamp": "2026-03-01T00:42:29.744271",
+        "user_id": "student",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.166",
+        "hash": "305e60be898adc05c9145f7250ad91f27fdb8ead7affacaf18b7f45798f64763"
+    },
+    {
+        "timestamp": "2026-03-01T00:42:37.976489",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.191",
+        "hash": "5d79d5dc4f8e76f468f534a446b704ed0fca3e75d310e53f05c239f8051485a0"
+    },
+    {
+        "timestamp": "2026-03-01T00:43:18.090256",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.191",
+        "hash": "c07a7d6c088e5d2453a5519c08326b525b3e70a0f0d19b6a46f9c75b137e12bd"
+    },
+    {
+        "timestamp": "2026-03-01T00:43:44.430300",
+        "user_id": "admin",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "c0210192e7e110705145ffed37ed67f04158de285d373d5b337a054eccaee1c6"
+    },
+    {
+        "timestamp": "2026-03-01T00:43:54.063399",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "07b4c00a1a0ea1f9ee5a4abb9336fe49b0fbe8b7b2763f1a50f0006bf0a544f7"
+    },
+    {
+        "timestamp": "2026-03-01T00:46:01.627364",
+        "user_id": "0",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.191",
+        "hash": "d44d16e55139af6438c48625c053fc0f3689e6b2045d87a80f8a229f32b4868d"
+    },
+    {
+        "timestamp": "2026-03-01T00:46:05.832614",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.191",
+        "hash": "50ca6b6ecea56fd5f5f7fe2a1bad650bca9d8c13ddc3380823d5d1313ab0180b"
+    },
+    {
+        "timestamp": "2026-03-01T00:46:26.506654",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.191",
+        "hash": "f2e0d17649a9ebdbd669ace2aff10361e7a56cc50260a342f912f7a5b723bfa5"
+    },
+    {
+        "timestamp": "2026-03-01T00:49:28.447490",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.191",
+        "hash": "f2dc685a992429c10d2d1f397fcaad006bcf08178ae8d8622a1b759fca50dc71"
+    },
+    {
+        "timestamp": "2026-03-01T00:49:34.507562",
+        "user_id": "adim",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.161",
+        "hash": "3be206984e697f2e58cd199b9cd38bff9165b5046ff2cb71a85ffaa419b16b9b"
+    },
+    {
+        "timestamp": "2026-03-01T00:49:45.022424",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "7d431c29814d2fddfb0d6bbc4c01ecfa8538a34a901cbf0b58bf216648eff41d"
+    },
+    {
+        "timestamp": "2026-03-01T00:50:59.926855",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.191",
+        "hash": "570e5bee535e859e46c4417bbf302feeacb2851a52e713ca366d6ab2f23829ef"
+    },
+    {
+        "timestamp": "2026-03-01T00:51:20.158022",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.191",
+        "hash": "0af797fb99d60ddd321dd5b01258ab4d9be72c381b8fa46750207b595a808c2f"
+    },
+    {
+        "timestamp": "2026-03-01T00:51:47.142898",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "74cbe246ec277e9b05a14b9d6dcb4cec214516874394391d1b8f31e0bda29b51"
+    },
+    {
+        "timestamp": "2026-03-01T00:51:59.997257",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "1dc7bd9082309136c0d7ab5b38881d34b15ede804671256a2f4dd8366c587a82"
+    },
+    {
+        "timestamp": "2026-03-01T00:52:08.150675",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "e27597dddd9622ae72f8a952cb10922acf1047c3f63e43c018eab2e117328411"
+    },
+    {
+        "timestamp": "2026-03-01T00:52:34.509303",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.43",
+        "hash": "c935c402e5a932615424f22290fd8e0e0152bcb3d001b511337b19b560b8937d"
+    },
+    {
+        "timestamp": "2026-03-01T00:52:54.350193",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.43",
+        "hash": "fcc8238097447b34e047e19e198a8b11d29aaed8541de33043863efea34626d5"
+    },
+    {
+        "timestamp": "2026-03-01T00:54:30.070610",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.191",
+        "hash": "eea0fdb0e5c33e8a4d2e0ccf054520f690d2f8d33f435d177eb08a9d51dc3d3f"
+    },
+    {
+        "timestamp": "2026-03-01T00:54:49.332709",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.191",
+        "hash": "a225c81e4b969762c9eb6d37b7fcd53c7fea1e07bdf1c74efcf65ad11dfa9452"
+    },
+    {
+        "timestamp": "2026-03-01T00:55:05.258821",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "4df4944583518d8156ea6daea7c18fee073a75c608695d7190fed471aacb35db"
+    },
+    {
+        "timestamp": "2026-03-01T00:55:22.120878",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "de36bc868818d16eeb0cac24f9c11d8cd47d4ac565e49f37f62f20634acd4148"
+    },
+    {
+        "timestamp": "2026-03-01T00:55:37.623698",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "c8f42bcbe60c8321f294cefc244b5101738107ac9df528eea71661a51632485a"
+    },
+    {
+        "timestamp": "2026-03-01T00:55:39.965815",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.43",
+        "hash": "bfcc07ff272d66f965a890ebc273b6eb8325d9bc06c3bda2f15ce86a8ebc876b"
+    },
+    {
+        "timestamp": "2026-03-01T00:55:58.567413",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGOUT",
+        "reason": "User logged out",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.43",
+        "hash": "adb4bfa12900b50abef4baa2b0af0ff0b11393ed501ea19906568f260b9b90ef"
+    },
+    {
+        "timestamp": "2026-03-01T01:01:26.999583",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "ba5505008f548dfc510d4ae8c9b850dec5eb3f53fe639ecc688088abf9d9f947"
+    },
+    {
+        "timestamp": "2026-03-01T01:02:58.342470",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "5bbe5de435d1f41af611f59e64f598810321f7ef8e5d38c09942df20e1647ce1"
+    },
+    {
+        "timestamp": "2026-03-01T01:02:59.303780",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "f4ddbcc79278eccc65dfea465ca2a744c27cf870cb96faa5bc59556d1ba69209"
+    },
+    {
+        "timestamp": "2026-03-01T01:08:48.929508",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "c78ac6a4870f15d00605429170709314b428a9f7a10efa1ae604be05d5cb0d7f"
+    },
+    {
+        "timestamp": "2026-03-01T01:10:21.556429",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.156",
+        "hash": "1bb7a629915a8111d83d2a32e0c10fec915f1990ed18f1e93b306f9d3fd12711"
+    },
+    {
+        "timestamp": "2026-03-01T01:11:15.536447",
+        "user_id": "",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.0",
+        "hash": "f09398db44e17b68686ee3cc3f450c97b2ac1c4bcfaf419fcce038777d134543"
+    },
+    {
+        "timestamp": "2026-03-01T01:11:24.461337",
+        "user_id": "",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.0",
+        "hash": "70e6c1795f5bcaaddd803853d557849399f821df41e767ebd17b69fca7d35224"
+    },
+    {
+        "timestamp": "2026-03-01T01:11:40.047590",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "271b30333fd4b29afd13578b855d18e863f575656f8acb7f5df4db6b99c8a74c"
+    },
+    {
+        "timestamp": "2026-03-01T01:14:15.073164",
+        "user_id": "",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.0",
+        "hash": "9592090f9472f1d615594b9eeb550019f47b3ef620a12c25a9b74e7972ba30ab"
+    },
+    {
+        "timestamp": "2026-03-01T01:14:28.296159",
+        "user_id": "admin",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "dc576e718245a79a23a018625669c41a7e43ab5d196c2c4188fdff8614cd0313"
+    },
+    {
+        "timestamp": "2026-03-01T01:14:35.616315",
+        "user_id": "admin",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "885fb163e29d228a02738c5bbe064e69d00707771227871d6519fb3f830ea4fa"
+    },
+    {
+        "timestamp": "2026-03-01T01:14:44.533920",
+        "user_id": "admin",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "e27d08995fe02e9ac3d82226efda85e9d68ec7bf4f652b9fca2985ce5a9c328a"
+    },
+    {
+        "timestamp": "2026-03-01T01:15:06.788752",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "79e7426f1a0e5b6fd17eea6418f0868fef9ae745626baed49e9a848e03b5e0f7"
+    },
+    {
+        "timestamp": "2026-03-01T01:17:05.495827",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "e988c61c376215918e59e9ef92f201ca11d483c8ae9a5346c4c69cd9eae233e6"
+    },
+    {
+        "timestamp": "2026-03-01T01:17:54.234855",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.156",
+        "hash": "3189cf46823b85652d8691b4ab39544cf928a8fa59da302ec61aca1873b31a4c"
+    },
+    {
+        "timestamp": "2026-03-01T01:18:53.086671",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.156",
+        "hash": "c5c8394e1586c56210f61e90393c8bcef01f492588d98debd0de086054089300"
+    },
+    {
+        "timestamp": "2026-03-01T01:22:42.054019",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "38e7dcc4845f7f2b763fb715a491c88a341607b95d256d0de309d1d640b8dc10"
+    },
+    {
+        "timestamp": "2026-03-01T01:23:20.196898",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MANUAL_INSPECTION",
+        "reason": "Subject: 0, Reason: Emergency Audit",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.164",
+        "hash": "48b6e5f3d4ea8dad0d487a5bd598f42d452fbc157128802826f5df7970b6731b"
+    },
+    {
+        "timestamp": "2026-03-01T01:25:09.329894",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.156",
+        "hash": "43f6a059b7a617fdebef4b5de86500f0d4e51d491ceb50153c187fe52c54ef19"
+    },
+    {
+        "timestamp": "2026-03-01T01:25:35.039157",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MANUAL_INSPECTION",
+        "reason": "Subject: 0, Reason: attentance",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.156",
+        "hash": "9e740fb63fb4e6bdca4822a167a3eb9d7d0fb454615e4636d08e2af242f31e45"
+    },
+    {
+        "timestamp": "2026-03-01T10:21:18.427490",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.62",
+        "hash": "6347e860f4ba350666dd316ade2f32b348b77b1fb2112257a78467b2dfbd486b"
+    },
+    {
+        "timestamp": "2026-03-01T10:21:37.673232",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MANUAL_INSPECTION",
+        "reason": "Subject: 0, Reason: attentance",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.62",
+        "hash": "a1db23e6a16e2e0a454a91b9b3e3bcdd1a051c24919accd3e37efbaebb736bfa"
+    },
+    {
+        "timestamp": "2026-03-01T10:21:57.406990",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MANUAL_INSPECTION",
+        "reason": "Subject: 6, Reason: attentance",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.62",
+        "hash": "d6040dcc3f48a02c019ff548cd976266327b91bfe484a29dc85df538a48e7ba9"
+    },
+    {
+        "timestamp": "2026-03-01T10:24:23.219919",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.62",
+        "hash": "07b9319f61eeedded9fff5b20e6771568da7030d8f25fe48e8c30136790ab089"
+    },
+    {
+        "timestamp": "2026-03-01T10:24:39.371290",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MANUAL_INSPECTION",
+        "reason": "Subject: 3, Reason: attentance",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.62",
+        "hash": "d65391b7876766f91e6dc6edaf779b8d77e10ca166c25aba9f74098ba5abed78"
+    },
+    {
+        "timestamp": "2026-03-01T10:26:41.485429",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.62",
+        "hash": "db5a0b99b3cebd19f5b7c30026d8fa5c71cd648e2d3c867d149d7ffba2706754"
+    },
+    {
+        "timestamp": "2026-03-01T10:27:06.112703",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MANUAL_INSPECTION",
+        "reason": "Subject: 9, Reason: attentance",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.62",
+        "hash": "ab4f25b206c9ad2ba1d99f79eb27dd09d5e66baa6fd44d08e5f25f0216c4bb9b"
+    },
+    {
+        "timestamp": "2026-03-01T10:27:46.134758",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.183",
+        "hash": "6ec5fe02677cffd020438fb07fd5c51aad0feafc0f3619109d7bffdc7666a476"
+    },
+    {
+        "timestamp": "2026-03-01T10:34:37.593208",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.183",
+        "hash": "ee83f409f4a634a8833a156fa9cdfeba436dbb14cf3f6e0f89421cb84ee8c74c"
+    },
+    {
+        "timestamp": "2026-03-01T10:36:33.388442",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.202",
+        "hash": "a13eba2c625f1bee4f97a2b8bfa8c584d344e105693b06d1fba4cf4472ff1feb"
+    },
+    {
+        "timestamp": "2026-03-01T10:41:03.751731",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.202",
+        "hash": "377c440f0ea4b3f75600b15e07223ed5c475f9e4addf91cfab2dce7496d61d69"
+    },
+    {
+        "timestamp": "2026-03-01T10:59:09.838432",
+        "user_id": "security",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.183",
+        "hash": "bd3a64192ce777669ad59f13e6c1f4b13708f06c692febc206a586ca116f7226"
+    },
+    {
+        "timestamp": "2026-03-01T10:59:11.622874",
+        "user_id": "security",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.183",
+        "hash": "4f589250cd9a97173a4833c483998dcb219c9fdccd570bd27faee7b119b7eec1"
+    },
+    {
+        "timestamp": "2026-03-01T10:59:18.787122",
+        "user_id": "security",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.183",
+        "hash": "731b9c42c66693a88858c532e19dc84a3fe0132da8b17765d54f70553e854d76"
+    },
+    {
+        "timestamp": "2026-03-01T10:59:23.074815",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.183",
+        "hash": "e0ae8c2401f31815dbe9b2cc62e976f65c515502c947cf01ab34402bf76eec12"
+    },
+    {
+        "timestamp": "2026-03-01T11:52:21.416568",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "9ed41baf17e6607eef07e3f36edebb1b89ccb5ee6533e7440fd3c89c87441468"
+    },
+    {
+        "timestamp": "2026-03-01T11:52:33.372068",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MANUAL_INSPECTION",
+        "reason": "Subject: 0, Reason: attentance",
+        "resource_id": "0",
+        "ip_simulated": "192.168.1.23",
+        "hash": "50b65960ebf3e15d8220d5630bde2b995e3298919ae55fcf2cc3de0038da6ae8"
+    },
+    {
+        "timestamp": "2026-03-01T11:52:42.911606",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "EMERGENCY_ABORT",
+        "reason": "Admin triggered emergency abort",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "64c46c5f9b6da5dd9f727831bed4d9773c35ad6782eb7617e32ae72c7bf9a29f"
+    },
+    {
+        "timestamp": "2026-03-01T11:52:56.903540",
+        "user_id": "0",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.187",
+        "hash": "74439e7f7964135ad03ba74cf2e919a86fa519a1beaf44fae5af3f313549fc1e"
+    },
+    {
+        "timestamp": "2026-03-01T11:53:02.026405",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.187",
+        "hash": "7b052327c3e466a1d8ece4fbe53cdd2e11262774eb95d0d4c38bdeff73d5d440"
+    },
+    {
+        "timestamp": "2026-03-01T11:55:26.506729",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.134",
+        "hash": "01023a94c1a873fb7fa06bafc64db535034b741b9dc30ba58200f9e64f5400a1"
+    },
+    {
+        "timestamp": "2026-03-01T11:55:37.450776",
+        "user_id": "system",
+        "role": "security_officer",
+        "action_type": "COMPLIANCE_MODE_CHANGE",
+        "reason": "Mode switched from STANDARD to STRICT",
+        "resource_id": null,
+        "ip_simulated": "127.0.0.1",
+        "hash": "mode_change_event"
+    },
+    {
+        "timestamp": "2026-03-01T11:55:43.713663",
+        "user_id": "system",
+        "role": "security_officer",
+        "action_type": "COMPLIANCE_MODE_CHANGE",
+        "reason": "Mode switched from STRICT to STANDARD",
+        "resource_id": null,
+        "ip_simulated": "127.0.0.1",
+        "hash": "mode_change_event"
+    },
+    {
+        "timestamp": "2026-03-01T11:56:02.077635",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "VULNERABILITY_SCAN",
+        "reason": "Full scan triggered",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.134",
+        "hash": "ed20e6768c366ff78e5e7c1808088638034fcac29b8dff5a97e57d13aa8ef46c"
+    },
+    {
+        "timestamp": "2026-03-01T11:57:47.760964",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.187",
+        "hash": "861ef602fd9f3fd8b883cc17905950e38d27136a0c6b0d97ff88cef3866c9733"
+    },
+    {
+        "timestamp": "2026-03-01T11:58:10.539215",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.187",
+        "hash": "8a5f6cc8b950b7df3b8ac8b19a9d2c94d10dfd801e67b9fe498d44ef28034ada"
+    },
+    {
+        "timestamp": "2026-03-01T12:02:13.448199",
+        "user_id": "0",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.187",
+        "hash": "b0183063e702eb406f75f843a522563c78c4be91f5d788f06e34ae4a1999a64b"
+    },
+    {
+        "timestamp": "2026-03-01T12:08:38.388771",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "7f0c21a4a1b16ad3a49773d19bbed215186ad38a06104efc31b1c912f5cf03da"
+    },
+    {
+        "timestamp": "2026-03-01T12:08:59.357188",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MANUAL_INSPECTION",
+        "reason": "Subject: 14, Reason: marks",
+        "resource_id": "14",
+        "ip_simulated": "192.168.1.23",
+        "hash": "95ee644c4da88ae3191873767d361f90ffd342014df9faf473113bc17d85b2f5"
+    },
+    {
+        "timestamp": "2026-03-01T12:09:20.865656",
+        "user_id": "14",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.118",
+        "hash": "a0ff2642acb5605cb8012c1c4f7dcac3d7a78704c3af412a5c68e2d149529421"
+    },
+    {
+        "timestamp": "2026-03-01T12:09:25.629703",
+        "user_id": "14",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.118",
+        "hash": "bfd17445a423af5fad20ca415094b7acd18aa21df20cbe84c2236776f708eb43"
+    },
+    {
+        "timestamp": "2026-03-01T12:09:27.359531",
+        "user_id": "14",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.118",
+        "hash": "57702a4e79926ffe64d89589d71d0a0da9a6ff168df70bd8260eec8e57555982"
+    },
+    {
+        "timestamp": "2026-03-01T12:09:28.641819",
+        "user_id": "14",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.118",
+        "hash": "4b1e75c22117a1afd562e2c71341784cfd4ea93e365166e71d4dbb9484b1eb71"
+    },
+    {
+        "timestamp": "2026-03-01T12:09:36.018343",
+        "user_id": "14",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.118",
+        "hash": "a83c734dd69d84aa6f08094c5dad4b7e9ee5947cdca257efdfa9edd8e72e3dcc"
+    },
+    {
+        "timestamp": "2026-03-01T12:09:36.571850",
+        "user_id": "14",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.118",
+        "hash": "d26cc787cd18bb009246c3a47f00690c326559e9626807b6efa49121f5bf062a"
+    },
+    {
+        "timestamp": "2026-03-01T12:09:36.813948",
+        "user_id": "14",
+        "role": "UNKNOWN",
+        "action_type": "LOGIN_FAILED",
+        "reason": "Invalid credentials attempt",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.118",
+        "hash": "4262f55158428ba2624cc7ad0707076b9c86a946b342ebc77579dd4b6a9b87e0"
+    },
+    {
+        "timestamp": "2026-03-01T12:09:44.482419",
+        "user_id": "9",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.117",
+        "hash": "196016e18a69294fd90078d1f9dcf75e77ad506153ab7abcc80786d480f5c31e"
+    },
+    {
+        "timestamp": "2026-03-01T12:10:05.788225",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "f30eb13b16ceb531f0599f50e20518edf914166c7618b2cfd688742473bacce6"
+    },
+    {
+        "timestamp": "2026-03-01T12:10:09.907020",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MODEL_RETRAIN_TRIGGER",
+        "reason": "Admin triggered federated model retraining",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "76f258a8ad9042d7226e223752e56e569c04714f79b1797c315a5280f7322bde"
+    },
+    {
+        "timestamp": "2026-03-01T12:11:53.594075",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "52ff4cd4519fb9af41c8efff64efdf6baffe826a232fd806fae6856fa863321b"
+    },
+    {
+        "timestamp": "2026-03-01T12:11:57.673334",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MODEL_RETRAIN_TRIGGER",
+        "reason": "Admin triggered federated model retraining",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "a128beed9015c110fc6ff5616d4e13c16d672833fd32eb3c5bcaae3eb8b13c74"
+    },
+    {
+        "timestamp": "2026-03-01T12:14:08.551693",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MODEL_RETRAIN_TRIGGER",
+        "reason": "Admin triggered federated model retraining",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "6ca3184e79daa30ad0ab734a385f0577405affa6db0cabefbd3b6a2b353058d7"
+    },
+    {
+        "timestamp": "2026-03-01T12:14:23.884720",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "cdb0fbce7c56a405e4c74c54e117561d51b8fcdc35911ac97c82011de86521e3"
+    },
+    {
+        "timestamp": "2026-03-01T12:14:27.321735",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MODEL_RETRAIN_TRIGGER",
+        "reason": "Admin triggered federated model retraining",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "75847596088e88c816abb604367c2f41bed4d69d910d22b26ccdefa04f0d6145"
+    },
+    {
+        "timestamp": "2026-03-01T12:14:35.759677",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MODEL_RETRAIN_TRIGGER",
+        "reason": "Admin triggered federated model retraining",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "0015c5338ddf51fc32002fcc08fec16edfc3c25bed6b31744ee408236bf76f88"
+    },
+    {
+        "timestamp": "2026-03-01T12:15:21.125219",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "d46a7433ed7f90916869c45394bbbe09a97c5920b7ed2535c87e286c792dadda"
+    },
+    {
+        "timestamp": "2026-03-01T12:15:42.909987",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MANUAL_INSPECTION",
+        "reason": "Subject: 9, Reason: mark",
+        "resource_id": "9",
+        "ip_simulated": "192.168.1.23",
+        "hash": "84346dd2a2f5ad1e3f35efde74808059be469b32aca5bb64cf2cb5123a15b729"
+    },
+    {
+        "timestamp": "2026-03-01T12:15:56.141232",
+        "user_id": "9",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.117",
+        "hash": "7bc132edae2bf1530e4e9a43362a9e31f2442bc87658f47ac58dc89764f855d9"
+    },
+    {
+        "timestamp": "2026-03-01T12:16:21.297762",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.134",
+        "hash": "dd220e3b2bcc087a37c959df483b82095963c3df78f4c188a7a135c6eb55de59"
+    },
+    {
+        "timestamp": "2026-03-01T12:16:32.623882",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "DP_KEY_ROTATION",
+        "reason": "Keys rotated",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.134",
+        "hash": "5a6b5a4f62e9f2b081f4f95abfe80024cc007ef84dc7915380cc71128f9465e0"
+    },
+    {
+        "timestamp": "2026-03-01T12:16:34.519390",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "NOISE_ESCALATION",
+        "reason": "Noise manually escalated",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.134",
+        "hash": "b707d6c2f4365740243cde16720d6872bb0564b5107beee1f226a311c3091784"
+    },
+    {
+        "timestamp": "2026-03-01T12:16:44.072408",
+        "user_id": "security",
+        "role": "security_officer",
+        "action_type": "PRIVACY_OPTIMIZATION",
+        "reason": "Global privacy tightened",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.134",
+        "hash": "7c51c641f8b2cf0e6ecedc8afa0309d94b91f7c162bd5e4f5266bda9119602a4"
+    },
+    {
+        "timestamp": "2026-03-01T12:18:09.508758",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "9af81e941dfc9cede8e9c8d1363196d28806e560f7a755a0fc0248be8a2b9d57"
+    },
+    {
+        "timestamp": "2026-03-01T12:18:27.988110",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "EMERGENCY_ABORT",
+        "reason": "Admin triggered emergency abort",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "c981205e7ae8842b8f29c3698b495fabd9f512e8127f9acfb3053ed1ee4a951b"
+    },
+    {
+        "timestamp": "2026-03-01T12:21:19.645356",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.23",
+        "hash": "b7c41562e3def8867c7062b7e09c2b30351f4370f7a35f432aea11107832670d"
+    },
+    {
+        "timestamp": "2026-03-01T12:21:35.712493",
+        "user_id": "admin",
+        "role": "admin",
+        "action_type": "MANUAL_INSPECTION",
+        "reason": "Subject: 9, Reason: security",
+        "resource_id": "9",
+        "ip_simulated": "192.168.1.23",
+        "hash": "3e271f120964fb189edb2a7a89232916229b6a9fb1ecd5d3969cba0976ced7ee"
+    },
+    {
+        "timestamp": "2026-03-01T12:21:48.438782",
+        "user_id": "9",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.117",
+        "hash": "568025e35c9819d707bfbe6c85409b180b060b6d34e2b705e130557b07c57de0"
+    },
+    {
+        "timestamp": "2026-03-01T12:24:27.341782",
+        "user_id": "9",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.117",
+        "hash": "5e578bbfd2899cdd53366fd507f17bcb556cd2bac53bfee6cbdaa2c8553d3df2"
+    },
+    {
+        "timestamp": "2026-03-01T12:28:35.220593",
+        "user_id": "9",
+        "role": "student",
+        "action_type": "LOGIN_SUCCESS",
+        "reason": "User authenticated successfully",
+        "resource_id": null,
+        "ip_simulated": "192.168.1.117",
+        "hash": "faac336442281aa37116a0ce85a4894f3033301ca878ba8f4723646ec13ee8a3"
+    }
+]
